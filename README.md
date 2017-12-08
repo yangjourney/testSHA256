@@ -1,0 +1,3 @@
+# testSHA256
+Jmeter在执行压力测试的时候，有些接口需要密钥才能验签成功
+将JAVA代码打包成jar文件，然后在jmeter中调用
