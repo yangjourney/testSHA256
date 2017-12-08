@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sha256">
+    <CLASSES>
+      <root url="jar://D:/sha256/out/artifacts/sha256_jar/sha256.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
